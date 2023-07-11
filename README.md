@@ -26,7 +26,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <summary>Client</summary>
-  [Client is here](https://github.com/raihan2bd/hello-world-front-end)
+  <a href="https://github.com/raihan2bd/hello-world-front-end">Client is here</a>
 
 <summary>BackEnd</summary>
 <ul>
